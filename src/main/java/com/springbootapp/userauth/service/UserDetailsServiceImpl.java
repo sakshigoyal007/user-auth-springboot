@@ -17,7 +17,6 @@ import com.springbootapp.userauth.model.Role;
 import com.springbootapp.userauth.model.User;
 import com.springbootapp.userauth.repository.UserRepo;
 
-
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService{
     @Autowired
